@@ -1,7 +1,7 @@
 EDUCIAA Fritzing part
 ==========================
 
-A library of EDUCIAA part for [Fritzing](http://fritzing.org/)
+EDUCIAA part for [Fritzing](http://fritzing.org/)
 
 If you would like to use the entire library, then download EDUCIAA.fzpz and open it in Fritzing (File | Open... )
 
