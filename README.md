@@ -5,4 +5,5 @@ EDUCIAA part for [Fritzing](http://fritzing.org/)
 
 If you would like to use this library, then download EDUCIAA.fzpz and open it in Fritzing (File | Open... )
 
-Warning: PCB view is not already correct. Only use for Schematic and Protoboard view.
+Files educiaa_img.svg ,educiaa_sch.svg and educiaa_pcb.svg were used in Firtzing's part editor. 
+You can edit EDUCIAA.fzpz at any time using fritzing and these files.
